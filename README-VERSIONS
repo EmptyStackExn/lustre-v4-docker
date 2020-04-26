@@ -1,0 +1,22 @@
+-------------------------------------------------
+LUSTRE-V4 RELEASE III-e for linux64
+-------------------------------------------------
+This distribution was build on the following environment:
+
+   Debian GNU/Linux 10 (buster)
+   gcc (Debian 8.3.0-6) 8.3.0
+
+The current versions of the executables are :
+
+   pollux      2.52 (front-end)
+   ec2oc       4.8
+   ocmin       1.0 
+   oc2atg      0.4 
+   poc         1.1 
+   ec2c        0.68 
+   lesar       1.54 (ecverif)
+   ecexe       2.4 
+   luciole     1.74 (simec)
+   sim2chro    4.0 alpha
+   sim2chrogtk 4.3 gtk2
+   xlesar       1.54 
